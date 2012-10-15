@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://lintide.github.com/thinglive/atom.xml" rel="self"/>
+  <link href="http://lintide.github.com/thinglive/"/>
+  <updated>2012-10-16T04:21:46+08:00</updated>
+  <id>http://lintide.github.com/thinglive/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://lintide.github.com/thinglive/blog/2012/10/16/hello-world/"/>
+    <updated>2012-10-16T04:18:00+08:00</updated>
+    <id>http://lintide.github.com/thinglive/blog/2012/10/16/hello-world</id>
+    <content type="html"><![CDATA[<h2>Hello world ##</h2>
+]]></content>
+  </entry>
+  
+</feed>
